@@ -1,0 +1,445 @@
+[
+  {
+    "question": "Quantas cores tem o arco-íris?",
+    "answer": " 7 cores"
+  },
+  {
+    "question": "O que está no meio do ovo?",
+    "answer": " a letra V"
+  },
+  {
+    "question": " Como ficou conhecido o regime de discriminação racial que separava brancos e negros na África do Sul entre 1948 e 1990?",
+    "answer": " Apartheid"
+  },
+  {
+    "question": "Qual animal nasce do cruzamento do burro com a égua?",
+    "options": {
+      "a": "Mula",
+      "b": "Bezerro",
+      "c": "Cabrito",
+      "d": "Cabra"
+    },
+    "answer": "a. Mula"
+  },
+  {
+    "question": "A Rodovia Regis Bittencourt é uma rodovia:",
+    "options": {
+      "a": "Vicinal",
+      "b": "Federal",
+      "c": "Estadual",
+      "d": "Municipal"
+    },
+    "answer": "b. Federal"
+  },
+  {
+    "question": "Quem nasce em Manaus é o que?",
+    "answer": "Manauara"
+  },
+  {
+    "question": "Qual a cor resulta se eu misturo as cores vermelho e branco?",
+    "answer": "Rosa"
+  },
+  {
+    "question": "A primavera vem após qual estação do ano?",
+    "answer": "Inverno"
+  },
+  {
+    "question": "Quantos signos possui o horoscopo?",
+    "answer": "12 signos"
+  },
+  {
+    "question": "Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:",
+    "options": {
+      "a": "Tubarão branco, crocodilo e sucuri",
+      "b": "Tigre, gavião e orca",
+      "c": "Hiena, urso branco e lobo cinzento",
+      "d": "Orca, onça e tarântula"
+    },
+    "answer": "c. Hiena, urso branco e lobo cinzento"
+  },
+  {
+    "question": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+    "options": {
+      "a": "Tipo A",
+      "b": " Tipo B",
+      "c": " Tipo O",
+      "d": " Tipo AB"
+    },
+    "answer": "c Tipo O"
+  },
+  {
+    "question": "Qual é o substantivo usado para se referir a um grupo de lobos?",
+    "options": {
+      "a": "Matilha",
+      "b": "Bando",
+      "c": "Alcateia",
+      "d": "Lobos"
+    },
+    "answer": "c. Alcateia"
+  },
+  {
+    "question": "Um ângulo de 90º é um ângulo?",
+    "options": {
+      "a": "Reto",
+      "b": "Obtuso",
+      "c": "Agudo",
+      "d": "Raso"
+    },
+    "answer": "a. Reto"
+  },
+  {
+    "question": "Quanto tempo a Terra demora para dar uma volta completa em torno dela mesma?",
+    "options": {
+      "a": "Aproximadamente 24 horas",
+      "b": "365 dias",
+      "c": "7 dias",
+      "d": "E.30 ou 31 dias"
+    },
+    "answer": "a. Aproximadamente 24 horas"
+  },
+  {
+    "question": "Quais são as fases da Lua?",
+    "options": {
+      "a": "Nova, cheia e superlua",
+      "b": "Penumbral, lunar parcial, lunar total e cheia",
+      "c": "Nova, cheia, minguante e lua de sangue",
+      "d": "Nova, crescente, cheia e minguante"
+    },
+    "answer": "d. Nova, crescente, cheia e minguante"
+  },
+  {
+    "question": "Quantos ossos temos no nosso corpo?",
+    "options": {
+      "a": "126",
+      "b": "206",
+      "c": "300",
+      "d": "200"
+    },
+    "answer": "b. 206"
+  },
+  {
+    "question": "Na novela 'Avenida Brasil', Genésio, primeiro marido de Carminha, vende a casa e sai do banco com uma mala cheia de:",
+    "options": {
+      "a": "Notas falsas",
+      "b": "Papel Picado",
+      "c": "Dinheiro",
+      "d": "Jornal"
+    },
+    "answer": "a. Notas falsas"
+  },
+  {
+    "question": "Qual destas ferramentas é mais apropriada para cravar pregos em uma superfície?",
+    "options": {
+      "a": "Alicate",
+      "b": "Martelo",
+      "c": "Serrote",
+      "d": "Lixadeira"
+    },
+    "answer": "a. Alicate"
+  },
+  {
+    "question": "Na alimentação vegetariana, qual desses alimentos não é consumido?",
+    "options": {
+      "a": "Carne",
+      "b": "Abobrinha",
+      "c": "Lentilha",
+      "d": "Ervilha"
+    },
+    "answer": "a. Carne"
+  },
+  {
+    "question": "Qual destas opções não é um tipo de calçado?",
+    "options": {
+      "a": "Sapato",
+      "b": "Cueca",
+      "c": "Chinelo",
+      "d": "Tenis"
+    },
+    "answer": "b. Cueca"
+  },
+  {
+    "question": "Um ano é composto de quantos trimestres?",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "6"
+    },
+    "answer": "c. 4"
+  },
+  {
+    "question": "Qual destes instrumentos musicais não possui cordas?",
+    "options": {
+      "a": "Violino",
+      "b": "Harpa",
+      "c": "Saxofone",
+      "d": "Guitarra"
+    },
+    "answer": "c. Saxofone"
+  },
+  {
+    "question": "Qual a classificação dada ao medicamento obtido exclusivamente da matéria-prima vegetal?",
+    "options": {
+      "a": "Genérico",
+      "b": "Fitoterápico",
+      "c": "Homeopático",
+      "d": "Alopático"
+    },
+    "answer": "b. Fitoterápico"
+  },
+  {
+    "question": "Qual destas duplas sertanejas é formada por irmãos gêmeos?",
+    "options": {
+      "a": "Mateus & Cristiano",
+      "b": "Henrique & Juliano",
+      "c": "Vieira & Vieirinha",
+      "d": "Matheus & Kauan"
+    },
+    "answer": "a. Mateus & Cristiano"
+  },
+  {
+    "question": "Quem foi a primeira pessoa a viajar no Espaço?",
+    "options": {
+      "a": "Yuri Gagarin",
+      "b": "A cadela Laika",
+      "c": "Neil Armstrong",
+      "d": "D.Marcos Pontes"
+    },
+    "answer": "a. Yuri Gagarin"
+  },
+  {
+    "question": "Qual a montanha mais alta do mundo?",
+    "options": {
+      "a": "Mauna Kea",
+      "b": "Dhaulagiri",
+      "c": "Monte Chimborazo",
+      "d": "Monte Everest"
+    },
+    "answer": "d. Monte Everest"
+  },
+  {
+    "question": "Onde se localiza Machu Picchu?",
+    "options": {
+      "a": "Colombia",
+      "b": "Peru",
+      "c": "China",
+      "d": "Bolivia"
+    },
+    "answer": "b. Peru"
+  },
+  {
+    "question": "Que país tem o formato de uma bota?",
+    "options": {
+      "a": "Butão",
+      "b": "Brasil",
+      "c": "Portugal",
+      "d": "Itália"
+    },
+    "answer": "d. Itália"
+  },
+  {
+    "question": "O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?",
+    "answer": "Ambos tem o mesmo peso 1 quilos, mas como precisamos de  uma porção de algodão  maior para compor 1 quilo, temos a sensação que de que o mesmo peso de algodão  é mais leve  do que o chumbo"
+  },
+  {
+    "question": "Em que país se anda mais de bicicleta?",
+    "options": {
+      "a": "Brasil",
+      "b": "Portugal",
+      "c": "Estados Unidos",
+      "d": "Países Baixos"
+    },
+    "answer": "d. Países Baixos"
+  },
+  {
+    "question": "Depois do futebol, qual o esporte mais popular no Brasil?",
+    "options": {
+      "a": "Esqui",
+      "b": "Vôlei",
+      "c": "Hóquei no gelo",
+      "d": "Golfe"
+    },
+    "answer": "b. Vôlei"
+  },
+  {
+    "question": "O que comemora no feriado do dia 21 de abril no Brasil?",
+    "options": {
+      "a": "Natal",
+      "b": "Tiradentes",
+      "c": "C.Independência do Brasil",
+      "d": "Finados"
+    },
+    "answer": "b. Tiradentes"
+  },
+  {
+    "question": "Em que conto de fadas uma princesa adormece com um feitiço e só acorda com o beijo de um príncipe?",
+    "options": {
+      "a": "A Bela Adormecida",
+      "b": "Joao e Maria",
+      "c": "Chapeuzinho Vermelho",
+      "d": "Patinho Feio"
+    },
+    "answer": "a. A Bela Adormecida"
+  },
+  {
+    "question": "Quais são as cores do arco-íris?",
+    "answer": "Vermelho, Laranja, Amarelo, Verde; Azul (anil ou índigo); Violeta"
+  },
+  {
+    "question": "Qual é a letra que antecede a letra 'O' no alfabeto brasileiro?",
+    "answer": "Letra N"
+  },
+  {
+    "question": "A qual banda de rock que o cantor britânico Fred Mercury pertenceu?",
+    "answer": "Queen"
+  },
+  {
+    "question": "Qual o nome do som grave, incômodo e barulhento, emitido pelas pessoas quando estão dormindo?",
+    "answer": "Ronco"
+  },
+  {
+    "question": "Qual cidade brasileira é conhecida como a terra da garoa?",
+    "answer": "São Paulo"
+  },
+  {
+    "question": "Qual é a décima sexta letra do alfabeto?",
+    "answer": "Letra P"
+  },
+  {
+    "question": "Qual é o nome do macho da cabra?",
+    "answer": "Bode"
+  },
+  {
+    "question": "Qual é o idioma oficial do Egito?",
+    "options": {
+      "a": "Árabe",
+      "b": "Francês",
+      "c": "Egípcio",
+      "d": "Inglês"
+    },
+    "answer": "a. Árabe"
+  },
+  {
+    "question": "Na mitologia grega, Zeus era filho de quem?",
+    "options": {
+      "a": "Apolo",
+      "b": "Urano",
+      "c": "Cronos",
+      "d": "Poseidon"
+    },
+    "answer": "c. Cronos"
+  },
+  {
+    "question": "Um galo colocou um ovo em cima do telhado do celeiro. Para qual direção ovo rolou?",
+    "answer": "Nenhuma, galo não coloca ovo"
+  },
+  {
+    "question": "Qual é o nome do maior osso do corpo humano?",
+    "answer": "Fêmur"
+  },
+  {
+    "question": "Um quilometro equivale a quantos metros?",
+    "answer": "1000 metros"
+  },
+  {
+    "question": "O azeite de oliva é feito de quê?",
+    "options": {
+      "a": "Azeitona",
+      "b": "Milho",
+      "c": "Canola",
+      "d": "Oliveira"
+    },
+    "answer": "a. Azeitona"
+  },
+  {
+    "question": "Complete o ditado: cão que late…",
+    "answer": "Não morde"
+  },
+  {
+    "question": "O tomate é…",
+    "options": {
+      "a": "Uma fruta",
+      "b": "Uma verdura",
+      "c": "Um legume",
+      "d": "Uma leguminosa"
+    },
+    "answer": "a. Uma fruta"
+  },
+  {
+    "question": "Na animação de Toy Story, qual o nome do personagem que é dono dos brinquedos?",
+    "options": {
+      "a": "Sid",
+      "b": "Tandy",
+      "c": "Andy",
+      "d": "Anderson"
+    },
+    "answer": "c. Andy"
+  },
+  {
+    "question": "Qual é o nome do criador do Facebook?",
+    "options": {
+      "a": "Bill Gates",
+      "b": "Mark Zuckerberg",
+      "c": "Jeff Bezos",
+      "d": "Steve Jobs"
+    },
+    "answer": "b. Mark Zuckerberg"
+  },
+  {
+    "question": "Complete o ditado: quando a esmola é grande o santo…",
+    "answer": "Desconfia"
+  },
+  {
+    "question": "Qual é a sigla do estado do Rio Grande do Sul?",
+    "answer": "RS"
+  },
+  {
+    "question": "Qual é o melhor amigo do Bob Esponja?",
+    "answer": "Patrick"
+  },
+  {
+    "question": "Quais são os 5 sentidos dos seres humanos?",
+    "answer": " Tato, Olfato, Paladar, Audição, Visão"
+  },
+
+  {
+    "question": "Quais são as 6 operações que realizamos na Matemática?",
+    "answer": "Adição, Subtração, Multiplicação, Divisão, Potenciação e Radiciação"
+  },
+  {
+    "question": "Quantas vezes seguidas um prefeito, governador e presidente podem concorrer ao cargo?",
+    "answer": "Duas vezes"
+  },
+  {
+    "question": "Qual a forma geométrica da parte amarela da bandeira do Brasil?",
+    "answer": "Losango"
+  },
+  {
+    "question": "Quem foram os primeiros filhos de Adão e Eva?",
+    "answer": "Caim e Abel"
+  },
+  {
+    "question": "Em qual cidade nasceu Jesus?",
+    "answer": "Belém de Judá"
+  },
+  {
+    "question": "Que alimento foi multiplicado por Jesus?",
+    "answer": "Cinco pães e dois peixinhos"
+  },
+  {
+    "question": "Como são chamados os primeiros 33 livros da Bíblia?",
+    "answer": "Velho testamento / antigo testamento"
+  },
+  {
+    "question": "Qual o primeiro livro da Bíblia?",
+    "answer": "Gênesis"
+  },
+  {
+    "question": "Qual foi a primeira capital do Brasil?",
+    "answer": "Salvador"
+  },
+  {
+    "question": "Quais são as cores da bandeira do Brasil?",
+    "answer": "verde, amarelo, azul e branco"
+  }
+]
