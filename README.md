@@ -2,6 +2,8 @@
 
 Projeto criado para uma jogo de perguntas e respostas.
 
+[Veja o projeto aqui](http://questions-game.surge.sh/)
+
 ![](project.gif)
 # Tecnoligas utilizadas
 
